@@ -1,9 +1,29 @@
-# Preview [phpstan-stack](https://github.com/premierstacks/phpstan-stack)
+# Preview [https://github.com/premierstacks/phpstan-stack](https://github.com/premierstacks/phpstan-stack)
 
-This repository gives you a glimpse into the features and benefits of our premium **phpstan-stack** package.<br />
+This repository gives you a glimpse into the features and benefits of our premium **premierstacks/phpstan-stack** package.<br />
 By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
 
-> **[👉 Full version here – Get access to the complete package by purchasing a license!](https://github.com/premierstacks/phpstan-stack)**
+## Steps to Explore and Get Started
+
+### 1. **Explore the Offer**
+
+Dive into the features and benefits of the **premierstacks/phpstan-stack** package by browsing through the provided files and documentation.
+
+### 2. **Buy a License**
+
+> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
+
+If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
+
+### 3. **Install the Package**
+
+> **[https://github.com/premierstacks/phpstan-stack](https://github.com/premierstacks/phpstan-stack)**
+
+Check out the complete package to see all the available features and updates.
+
+Follow the installation instructions provided in the full package repository to get started with **premierstacks/phpstan-stack**.
+
+## Usefull links
 
 **Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
 **Access the source code**: [https://github.com/premierstacks/phpstan-stack](https://github.com/premierstacks/phpstan-stack)<br />
@@ -11,6 +31,7 @@ By exploring the contents here, you’ll get an overview of what to expect from 
 **Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
 **Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
 
+---
 # [PHPStan Stack](https://github.com/premierstacks/phpstan-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
 Boost PHP code quality with our PHPStan Stack: integrating the latest rules and extensions for comprehensive analysis. Designed for seamless setup and continuous improvement.
